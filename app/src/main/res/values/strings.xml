@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">SameerMonirItunes</string>
+<string name="fragment">Fragment</string>
+<string name="user_thumbnail">User Thumbnail</string>
+    <string name="todo">TODO</string>
+</resources>
